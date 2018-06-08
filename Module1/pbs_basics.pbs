@@ -12,4 +12,5 @@
 #PBS -l qos=flux
 
 pwd
+cd /
 
