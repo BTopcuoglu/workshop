@@ -11,4 +11,5 @@
 #PBS -A pschloss_fluxod
 #PBS -l qos=flux
 
-pw
+pwd
+
